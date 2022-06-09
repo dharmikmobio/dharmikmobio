@@ -7,9 +7,7 @@
 
 💬 Ask me about React , Next
 
-📫 How to reach me dharmikpatel6692@gmail.com
 
-⚡ Fun fact I m a Mechanical Engineer to become software Engineer because of my passion in Web Development
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/codewithenvision) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thevasoya147) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codewithenvision) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:19304179) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thevasoya147) 
